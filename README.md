@@ -9,8 +9,8 @@ If you are reading this, you probably received a job application by me or someho
 
 - ... mastering my data analytics and visualisation skills in Python with the help of dataquest courses. Hopefully, I will be able to share some new work soon!
 - ... upcycling old furniture and generally practicing related woodworking skills.
-- ... improving my range of baking with sourdough. Currently working through the book *New World Sourdough* by [Bryan Ford](https://www.artisanbryan.com/). 
-
+- ... improving my range of baking with sourdough. Currently working through the book *New World Sourdough* by [Bryan Ford](https://www.artisanbryan.com/).
+- **... finding employment ;)**
 
 
 <!--
