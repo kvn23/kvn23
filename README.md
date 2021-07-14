@@ -4,7 +4,7 @@ My name is Kevin Karl and I recently graduated with a master's degree in informa
 
 If you are reading this, you probably received a job application by me or somehow google lead you here. Either way, feel free to browse my portfolio repository, to get a glimpse on what I've been working on!
 
-### 🔭 I’m currently working on ...
+##### 🔭 I’m currently working on ...
 - ... mastering my data analytics and visualisation skills in Python with the help of [dataquest](https://www.dataquest.io/) courses. Hopefully, I will be able to share some new work soon!
 - ... upcycling old furniture and generally practicing related woodworking skills.
 - ... improving my range of baking with sourdough. Currently working through the book *New World Sourdough* by [Bryan Ford](https://www.artisanbryan.com/).
