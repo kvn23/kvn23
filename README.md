@@ -2,7 +2,7 @@
 
 My name is Kevin and I am about to graduate with a master's degree in information system. The topics of interest during my many university years changed frequently, ranging from project and innovation management to mobile application development. During my last year in university, I ultimately focused on data science topics, such as machine learning and simple descriptive analytics. Subsequently, the focus of my thesis was on explainable AI methods, in particular the usage of Python libraries to augment ML predictions with better explanations.
 
-If you are reading this, you probably received a job application by me or somehow Google lead you here. Either way, feel free to browse my portfolio repository to get a glimpse on what I've been working on!
+If you are reading this, you probably received a job application by me or somehow Google lead you here. Either way, feel free to browse my [portfolio repository](https://github.com/kvn23/portfolio#readme) to get a glimpse on what I've been working on!
 
 ##### Some More Fun Facts About Me:
 - Despite having studied a computer heavy subject, I prefer to be off the desk as much as possible in my free time. My main hobbies are practicing culinary arts, upcycling furniture and maintaining a herb garden.
