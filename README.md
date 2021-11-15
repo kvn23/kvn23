@@ -6,7 +6,7 @@ If you are reading this, you probably received a job application by me or someho
 
 ##### Some More Facts About Me:
 - Despite having studied a computer heavy subject, preferably off the desk as much as possible in my free time. My main hobbies are practicing culinary arts, upcycling furniture and maintaining a herb garden.
-- I enjoy visually pleasing things, ranging from movies to furniture design. I dislike postmodern architecture.
+- I enjoy visually pleasing things, ranging from movies to furniture design. I dislike postmodern architecture or anything senselessly tacky.
 - Big fan of 80s music and visuals, the legendary as well as the cheesy output of that era. There is no guilt in pleasure. Check out this continuously evolving [Spotify Playlist](https://open.spotify.com/playlist/1PLLgWVth8PoXXNqpLXFR9?si=f135a2b8782a4daa) I am curating.
 
 ##### I’m currently working on ...
